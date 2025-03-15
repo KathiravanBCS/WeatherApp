@@ -5,7 +5,7 @@
 A weather application that provides real-time weather information for any city. Built with React JS, it displays temperature, humidity, wind speed, and weather conditions.
 
 #### **README**  
-```markdown
+
 # Weather App
 
 A weather application that provides real-time weather information for any city. Built with React JS, it displays temperature, humidity, wind speed, and weather conditions.
@@ -22,7 +22,6 @@ A weather application that provides real-time weather information for any city. 
 
 ## Installation
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/weather-app.git
 Install dependencies:
 
